@@ -1,0 +1,12 @@
+[ 
+        { 
+          "molecule": "1", 
+          "smiles": "[8*][C][C]", 
+          "molweight": ""
+        }, 
+        { 
+          "molecule": "2", 
+          "smiles": "[8*][C][C]", 
+          "molweight": ""
+        } 
+      ]
